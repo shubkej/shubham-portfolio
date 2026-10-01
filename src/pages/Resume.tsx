@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 
 const timeline = [
   {
-    date: "June 2025 - Present",
+    date: "July 2025 - July 2026",
     title: "BlurBee soultions",
     description: "MERN Stack Developer",
   },
